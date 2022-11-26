@@ -12,7 +12,7 @@ This is a grocery App. It allows user to browser different categories of items, 
 
 - User control and freedom: It's common for user for perform wrong actions. There is a "All" choice for both two filters to make sure it can revert back to the original state without refreshing the page.
 
-- The application provides button to easily add and remove items from the shopping cart. Also, the states of each item (how many items are in the shopping cart) and the total price are kept consistent across the page.
+- The application provides button to easily add and remove items from the shopping cart. Also, the states of each product (how many items are in the shopping cart) and the total price are kept consistent across the page.
 
 - The sorting and filter are clearly indicated, as well as their options.
 
