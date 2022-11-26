@@ -2,7 +2,7 @@
 
 ### Link to Deployed Website
 
-https://smartdog123.github.io/1300-development/
+https://smartdog123.github.io/1300-Dev/
 
 ### Goal and Value of the Application
 
